@@ -1,3 +1,4 @@
+![logo](https://github.com/Digvijay555/Digvijay555/blob/main/Backend%20Developer.png)
 <h1 align="center">Hi 👋, I'm Digvijay Rana</h1>
 <h3 align="center">🚀Node.js and Express enthusiast with hands-on experience, specializing in AWS Lambda and serverless programming. 🌐 Proficient in Docker and CI/CD.</h3>
 
